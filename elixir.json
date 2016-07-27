@@ -1,0 +1,5 @@
+{
+  "assetsPath": "src/assets",
+  "publicPath": "build",
+  "appPath": "src/app"
+}

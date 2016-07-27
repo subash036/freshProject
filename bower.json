@@ -1,0 +1,11 @@
+{
+  "name": "elixir",
+  "description": "Laravel Elixir Starter Package",
+  "main": "index.js",
+  "authors": [
+    "Jyoti Prakash"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
