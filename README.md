@@ -3,7 +3,7 @@
 
 ## Instructions ##
 
-1. Take clone from https://bitbucket.org/Inkoniq/elixir
+1. Take clone from https://github.com/subash036/freshProject.git
 
 2. Then change the name 'elixir' to the respective project name.
 
